@@ -215,10 +215,23 @@ presentation/
 
 ---
 
-# Autorin
+# Projektkontext
+
+Dieses Projekt wurde im Rahmen einer Teamarbeit durchgeführt.
+
+# Mein Beitrag
 
 **Nataliia Melnytska**
 
-Data Analytics Portfolio Projekt
+Verantwortungsbereiche:
 
-Machine Learning | KNIME | Power BI | Predictive Analytics | Data Analysis
+* Explorative Datenanalyse (EDA)
+* Entwicklung und Optimierung des KNIME-Workflows
+* Datenaufbereitung und Analyse
+* Erstellung der Projektdokumentation
+* Standardisierung und Strukturierung der Projektpräsentation
+* Visualisierung und Ergebnisaufbereitung
+
+Data Analytics | KNIME | Machine Learning | Data Visualization | Reporting
+
+---
